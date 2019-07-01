@@ -1,4 +1,6 @@
-baseURL = "http://KumarRishabh.github.io"
+baseURL = "https://KumarRishabh.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rishabh Kumar"
 theme = "ananke"
+[permalinks]
+    posts = "/:year/:month/:slug/"
