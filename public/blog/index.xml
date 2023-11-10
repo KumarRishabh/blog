@@ -18,5 +18,18 @@
       
     </item>
     
+    <item>
+      <title></title>
+      <link>https://example.org/blog/t-distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/t-distribution/</guid>
+      
+      <description>T-distribution Recently, in my regression analysis class we were asked to derive the Gibbs updates for the bayesian linear regression model. \begin{equation}
+\end{equation}
+Definition What is the &amp;ldquo;freedom&amp;rdquo; in the degree of freedom? T-distribution as a mixture of normals (Bayesian Interpretation) More hierarchical Bayesian setup (with changing $\mu$&amp;rsquo;s ) </description>
+      
+    </item>
+    
   </channel>
 </rss>
